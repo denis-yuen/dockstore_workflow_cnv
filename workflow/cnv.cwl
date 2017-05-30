@@ -4,10 +4,10 @@
 class: Workflow
 cwlVersion: v1.0
 
-doc: "Copynumber variation workflow, runs ADTEx and Varscan"
+doc: "Test workflow"
 
-dct:creator: {'@id': 'http://orcid.org/0000-0002-7681-6415', 'foaf:mbox': beccyl@synapse.org,
-  'foaf:name': beccyl}
+dct:creator: {'@id': 'http://orcid.org/0000-0000-0000-0000', 'foaf:mbox': test@synapse.org,
+  'foaf:name': test}
 
 requirements:
   - class: MultipleInputFeatureRequirement
