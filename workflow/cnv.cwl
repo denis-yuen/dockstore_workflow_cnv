@@ -6,6 +6,9 @@ cwlVersion: v1.0
 
 doc: "Copynumber variation workflow, runs ADTEx and Varscan"
 
+dct:creator: {'@id': 'http://orcid.org/0000-0002-7681-6415', 'foaf:mbox': beccyl@synapse.org,
+  'foaf:name': beccyl}
+
 requirements:
   - class: MultipleInputFeatureRequirement
   - class: StepInputExpressionRequirement
